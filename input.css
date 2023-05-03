@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.iteck-hero {
+  background-image: url("./img/head_shape_r.png");
+}
